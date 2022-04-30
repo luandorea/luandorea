@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @luandorea
+- 👀 I’m interested in Front-end
+- 🌱 I’m currently learning Java Script
+- 💞️ I’m looking to collaborate on front-end projects
+- 📫 How to reach me @luandorea (in all social media)
